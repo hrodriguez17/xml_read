@@ -1,0 +1,1 @@
+"<Tag Constant=\"false\" DataType=\"BOOL\" ExternalAccess=\"Read/Write\" Name=\"AlarmReset\" Radix=\"Decimal\" TagType=\"Base\">\n<Data Format=\"L5K\">\n<CData>\n0\n</CData>\n</Data>\n<Data Format=\"Decorated\">\n<DataValue DataType=\"BOOL\" Radix=\"Decimal\" Value=\"0\"/>\n</Data>\n</Tag>"

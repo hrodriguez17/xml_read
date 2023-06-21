@@ -1,0 +1,1 @@
+[LEQ(AIT_Label3_PH.Val,7) TON(MP_Label2_Timer,?,?) ,GRT(AIT_Label3_PH.Val,7) TON(MP_Label2_Timer,?,?) ,XIC(MP_Label2_Timer.DN) [OTL(UseAcidPump_Label1) ,OTU(UseCausticPump_Label2) ] ,XIC(MP_Label2_Timer.DN) [OTU(UseAcidPump_Label1) ,OTL(UseCausticPump_Label2) ] ];

@@ -1,0 +1,1 @@
+[MOV(PIT_Label_I,PIT_Label.Inp_PV) P_AIn(PIT_Label) ,XIC(Local:12:I.Ch03Status) OTE(PIT_Label.Sts_PVBad) ,XIC(AlarmReset) OTE(PIT_Label.PCmd_Reset) ];]

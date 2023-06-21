@@ -1,0 +1,1 @@
+[MOV(PDT_Label_I,PDT_Label.Inp_PV) P_AInAdv(PDT_Label) ,XIC(Local:7:I.Ch00Status) OTE(PDT_Label.Sts_PVBad) ,XIC(AlarmReset) OTE(PDT_Label.PCmd_Reset) ];

@@ -1,0 +1,1 @@
+MUL(FIT_Label3.Val,FFIC_Label_RatioSetpoint,FFIC_Label_Scale.PSet_CV)P_AOut(FFIC_Label_Scale)[XIC(MP_Label1_Selected) MOV(FFIC_Label_Scale.Out_CV,MP_Label1.PSet_SpeedRef) ,XIC(MP_Label2_Selected) MOV(FFIC_Label_Scale.Out_CV,MP_Label2.PSet_SpeedRef) ];

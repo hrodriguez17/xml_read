@@ -1,0 +1,1 @@
+[EQU(HC_Label_Selector,1) OTE(MP_Label1_Selected) ,EQU(HC_Label_Selector,2) OTE(MP_Label2_Selected) ];

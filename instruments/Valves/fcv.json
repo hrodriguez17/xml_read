@@ -1,0 +1,1 @@
+[P_ValveC(FCV_Label)MOV(FCV_Label.Out_CV ,FCV_Label_O) ,MOV(FCV_Label.Out_CV ,FCV_Label.Inp_PosFdbk) ,XIC(Local:15:I.Ch1Status)OTE(FCV_Label.Inp_ActuatorFault) ,P_Intlk(FCV_Label_Intlk) ,XIC(FCV_Label_Intlk.Sts_IntlkOK)OTE(FCV_Label.Inp_IntlkOK) ,XIC(FCV_Label_Intlk.Sts_NBIntlkOK)OTE(FCV_Label.Inp_NBIntlkOK)];
